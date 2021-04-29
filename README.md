@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I'm currently working on the TacoByte community.
+- 🌱 I'm currently learning Network+
+- 💬 Ask me about Pure Bash, Networking, Markdown, Network-security, and well anything you want.
+- 😄 Pronouns: Any but prefers he/him
+- ⚡ Fun fact: I'm currently 14!
