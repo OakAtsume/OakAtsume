@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning Network+
 - 💬 Ask me about Pure Bash, Networking, Markdown, Network-security, and well anything you want.
 - 😄 Pronouns: Any but prefers he/him
-- ⚡ Fun fact: I'm currently 14!
