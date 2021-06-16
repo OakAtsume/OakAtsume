@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I'm currently working on the TacoByte community.
-- 🌱 I'm currently learning Network+
+- 🌱 I'm currently learning (nothing)
 - 💬 Ask me about Pure Bash, Networking, Markdown, Network-security, and well anything you want.
 - 😄 Pronouns: Any but prefers he/him
