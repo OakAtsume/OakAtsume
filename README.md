@@ -14,7 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I'm currently working on the TacoByte community.
+- 🔭 I'm currently working on the [TacoByte](https://github.com/team-tacobyte) [community](https://discord.gg/acPGzacTF5).
 - 🌱 I'm currently learning (Java)
 - 💬 Ask me about Pure Bash, Networking, Markdown, Network-security, and well anything you want.
 - 😄 Pronouns: Any but prefers he/him
+
+# Social!
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+
+# Languages & Technologies
+
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+
+# Code Editors/IDEs
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+# Github Stats
+
+<p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=oakatsume&show_icons=true&locale=en&theme=synthwave" alt="oak">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oakatsume&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="oak" >
+</p>
+
+  
+Profile badges from [Ileriayo](https://github.com/Ileriayo) and in this [repo](https://github.com/Ileriayo/markdown-badges)
+
+Thanks to. [Certified Rice](https://github.com/CertifiedRice) for the contribuations
+  
