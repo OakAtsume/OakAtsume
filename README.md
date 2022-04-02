@@ -41,5 +41,6 @@ Here are some ideas to get you started:
 
   
 Profile badges from [Ileriayo](https://github.com/Ileriayo) and in this [repo](https://github.com/Ileriayo/markdown-badges)
+
 Thanks to. [Certified Rice](https://github.com/CertifiedRice) for the contribuations
   
