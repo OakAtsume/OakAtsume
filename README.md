@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about Pure Bash, Networking, Markdown, Network-security, and well anything you want.
 - 😄 Pronouns: Any but prefers he/him
 
+# Social!
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+
 # Languages & Technologies
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
@@ -30,8 +34,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oakatsume&show_icons=true&locale=en&theme=synthwave" alt="oak" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oakatsume&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="oak" /></p>
-
-# Social!
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oakatsume&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="oak" />
