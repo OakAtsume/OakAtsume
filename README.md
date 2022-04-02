@@ -32,9 +32,14 @@ Here are some ideas to get you started:
 
 # Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oakatsume&show_icons=true&locale=en&theme=synthwave" alt="oak" /></p>
+<p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oakatsume&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="oak" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=oakatsume&show_icons=true&locale=en&theme=synthwave" alt="oak">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oakatsume&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="oak" >
+</p>
 
   
+Profile badges from [Ileriayo](https://github.com/Ileriayo) and in this [repo](https://github.com/Ileriayo/markdown-badges)
+Thanks to. [Certified Rice](https://github.com/CertifiedRice) for the contribuations
   
