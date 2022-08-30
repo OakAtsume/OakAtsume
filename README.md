@@ -53,13 +53,5 @@
 
 </div>
 
-<div class="CenterDiv">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=oakatsume&show_icons=true&locale=en&theme=calm"
-        alt="oak">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=oakatsume&show_icons=true&locale=en&layout=compact&theme=calm"
-        alt="oak">
-</div>
 
 </html>
