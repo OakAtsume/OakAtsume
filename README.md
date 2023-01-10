@@ -1,10 +1,10 @@
 <html style="background: scroll; background-color: #202124; color: whitesmoke;">
 <h1 style="text-align: center">Hey there 👋</h1>
 <p>
-    👋 Howdy I'm Oak
-    ❤️ Any/Pronouns
-    🐈‍⬛ Cat lover
-    💻PenTester and Developer
+    👋 Howdy I'm Oak </br>
+    ❤️ Any/Pronouns </br>
+    🐈‍⬛ Cat lover </br>
+    💻PenTester and Developer </br>
 </p>
 <br>
 <h2>Contact Me</h2>
