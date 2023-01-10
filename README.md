@@ -1,8 +1,10 @@
 <html style="background: scroll; background-color: #202124; color: whitesmoke;">
 <h1 style="text-align: center">Hey there 👋</h1>
 <p>
-    Hey there, I'm Oak just your friendly AP-Computer science student. <br>
-    I'm a Volunteer network administrator, and hobbyist programmer/dev. <br>
+    👋 Howdy I'm Oak
+    ❤️ Any/Pronouns
+    🐈‍⬛ Cat lover
+    💻PenTester and Developer
 </p>
 <br>
 <h2>Contact Me</h2>
