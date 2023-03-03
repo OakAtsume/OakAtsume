@@ -7,8 +7,8 @@
 ```ruby
 aboutMe = {
   "Pronouns" => [
-    "he",
-    "him",
+    "Any",
+    "Prnouns",
   ],
   "Code" => ["Ruby", "Bash", "C", "HTML5", "CSS", "Java"],
   "Techs" => ["Docker", "Linux", "Cloudflare", "Ngix", "VScode", "Android", "And more!"], # Linux my beloved :heart:
