@@ -1,6 +1,5 @@
 <h1 align="center">Hello there, I'm <a href="https://oakatsume.xyz">Oak</a></h1>
 <h3 align="center">Welcome to my profile~</h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OakAtsume"></p>
 
 
 ```ruby
