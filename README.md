@@ -16,7 +16,8 @@ aboutMe = {
   "Hobbies" => [
     "Coding",
     "Writing",
-    "The Furry Fandom",
+    "Threat Hunting",
+    "Pissing off state sponsored actors ;)"
   ],
 }
 ```
