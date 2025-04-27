@@ -7,7 +7,7 @@ aboutMe = {
     "Any",
     "Pronouns",
   ],
-  "Code" => ["Ruby", "Bash", "C", "HTML5", "CSS", "Java"],
+  "Code" => ["Ruby", "Bash", "C", "HTML5", "CSS", "Java", "Crystal", "Lua"],
   "Techs" => ["Docker", "Linux", "Cloudflare", "Nginx", "VScode", "Android", "And more!"], # Linux my beloved :heart:
   "Languages" => {
     "Native" => "Spanish",
